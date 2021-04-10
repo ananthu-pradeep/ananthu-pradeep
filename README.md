@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ananthu-pradeep
+- 👋 Hi, I’m @ananthu_pradeep
 - 👀 I’m interested in learning new things and coding
